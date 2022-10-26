@@ -1,4 +1,4 @@
-<h1> Chat utilizando a biblioteca Socket.io </h1>
+<h1> Criação de Chat utilizando a biblioteca Socket.io - NodeJS </h1>
 <br>
 O projeto é simples e consiste em aprender a lógica de criação de chat utilizando conceitos de Web Sockets e como integrar backend com o frontend no projeto. <br>
 <h2> Frameworks e bibliotecas utilizadas: </h2>
